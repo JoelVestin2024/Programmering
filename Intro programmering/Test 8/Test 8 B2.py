@@ -1,6 +1,5 @@
 import random
 
-treor = 0
 lista = []
 
 for i in range(33):
