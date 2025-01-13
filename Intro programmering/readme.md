@@ -1,6 +1,6 @@
 Loggbok Blackjack
 
-2025-01-13: Blackjack varianten som jag gör kommer att vara en enspelar variant som bygger på de listade punkterna.
+2025-01-13:
 
 * Kortlek med fyra 1:or, fyra 2:or, ..., fyra Kungar
 * Blanda kortleken
