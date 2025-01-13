@@ -15,3 +15,5 @@ Loggbok Blackjack
 * Knekt, dam kung värda 10.
 * Ess är värt 1 eller 11 enlig regelboken
 * Kan splitta handen
+
+2025-01-14:
